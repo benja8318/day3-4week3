@@ -1,0 +1,164 @@
+a,
+h1,
+h2,
+h3,
+div,
+body,
+html {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+#body {
+    font-family: 'Raleway', sans-serif;
+}
+img {
+    height: 100%;
+    width: 100%;
+}
+#freshest {
+    display:flex;
+    flex-direction: column;
+    background-color: gray;
+    background-image: url(green-vegetables-on-brown-wooden-chopping-board-3952047.jpg);
+    height: 1920px;
+    width: 1281;
+    background-size:cover;
+}
+#navbar {
+    padding-top: 20px;
+}
+#navcontain {
+    flex-direction: row;
+}
+#navbar h2 {
+  color:white;
+ width: 300px;
+ font-size: 35px;
+ padding-left: 35px;
+}
+#navbar a {
+    float: right;
+    text-decoration: none;
+    color:white;
+    margin-top: -40px;
+   font-size: 35px;
+   padding-right:40px;
+}
+.hor1 {
+    width:97%;
+    height: 3px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+    background-color: white;
+    border: 0 none;
+}
+#titleparent {
+    margin-top: 500px;
+}
+.hor2 {
+    width:30%;
+    height: 3px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+    background-color: white;
+    border: 0 none;
+}
+#title {
+flex-direction:column;
+display:flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+ 
+}
+#main {
+    color:white;
+    font-size: 120px;
+}
+#brief {
+    color:white;
+    font-size: 80px;
+}
+
+
+#bread {
+    background-color: black;
+}
+#breadcontain {
+    display:flex;
+    height: 708px;
+}
+ 
+#breadimg { 
+    height: 708px;
+    width: 1060px;
+    background-size:cover;
+}
+#breadtext {
+    
+}
+#breadtext h2 {
+    color: white;
+    font-size: 60px;
+}
+#breadtext p {
+    color: white;
+    font-size: 40px;
+}
+
+
+#pineapple {
+    background-color: #111111;
+}
+#pineapplecontain {
+    display:flex;
+    height:1000px;
+}
+#pineappleimg {
+   
+    background-size: cover;
+    height: 1000px;
+    width: 1500px;
+
+}
+#pineappletext {
+}
+#pineapple h2 {
+    color:white;
+    font-size: 60px;
+}
+#pineapple p {
+    color:white;
+    font-size: 40px;
+}
+
+#pasta {
+    background-color: #222222;
+}
+#pastacontain {
+    display:flex;
+    height: 800px;
+}
+ 
+#pastaimg { 
+    height: 800px;
+    width: 1000px;
+    background-size:cover;
+}
+#pastatext {
+    
+}
+#pastatext h2 {
+    color: white;
+    font-size: 60px;
+}
+#pastatext p {
+    color: white;
+    font-size: 40px;
+}
+
+
+ 
